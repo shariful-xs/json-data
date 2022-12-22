@@ -1,0 +1,38 @@
+{
+    "status": "success",
+    "data": {
+        "content": [
+            {
+                "index": 1,
+                "url": "https:\/\/www.gigaalert.com\/api-guide.php",
+                "title": "Copyscape Premium - API Guide",
+                "textsnippet": "... The Copyscape Premium API allows you to seamlessly integrate Copyscape Premium ... For WordPress users, our plugin allows you to use your API credentials ... to seamlessly integrate Copyscape Premium into your WordPress workflow. ... The API costs the same as the web interface. Each search costs ... 3c for the first 200 words plus 1c per additional 100\u00a0... The API cannot be accessed by Javascript\/Ajax running within a web page, ... Initial Checks and Full Comparisons - Explains the two levels of checks ... JSON\/XML Search Response - Describes JSON and XML responses that you receive from ... HTML Search Response - Describes HTML responses that you receive from API\u00a0... Add to Private Index Response - Describes responses from API requests that add to ... Click to download sample code for accessing the Copyscape API in PHP, Python,\u00a0... The Initial Check returns an indicative text \"snippet\" containing a short selection of ... The length of this snippet, given in the minwordsmatched field of the\u00a0... the Copyscape API can also perform an additional, ... more thorough check called a Full Comparison.... in the Initial Check, and compares it against the text that was submitted.... result in the web interface. To perform Full Comparisons through the API,\u00a0... This controls the maximum number of Full Comparisons to perform, prioritizing the results with the longest snippet lengths from the Initial Check.... If a Full Comparison is successfully performed for a page,\u00a0",
+                "htmlsnippet": "<font color=\"#777777\">... <\/font><font color=\"#000000\">The Copyscape Premium API allows you to seamlessly integrate Copyscape Premium <\/font><font color=\"#777777\">... <\/font><font color=\"#000000\">For WordPress users, our plugin allows you to use your API credentials <\/font><font color=\"#777777\">... <\/font><font color=\"#000000\">to seamlessly integrate Copyscape Premium into your WordPress workflow. <\/font><font color=\"#777777\">... <\/font><font color=\"#000000\">The API costs the same as the web interface. Each search costs <\/font><font color=\"#777777\">... <\/font><font color=\"#000000\">3c for the first 200 words plus 1c per additional 100\u00a0<\/font><font color=\"#777777\">... <\/font><font color=\"#000000\">The API cannot be accessed by Javascript\/Ajax running within a web page, <\/font><font color=\"#777777\">... <\/font><font color=\"#000000\">Initial Checks and Full Comparisons - Explains the two levels of checks <\/font><font color=\"#777777\">... <\/font><font color=\"#000000\">JSON\/XML Search Response - Describes JSON and XML responses that you receive from <\/font><font color=\"#777777\">... <\/font><font color=\"#000000\">HTML Search Response - Describes HTML responses that you receive from API\u00a0<\/font><font color=\"#777777\">... <\/font><font color=\"#000000\">Add to Private Index Response - Describes responses from API requests that add to <\/font><font color=\"#777777\">... <\/font><font color=\"#000000\">Click to download sample code for accessing the Copyscape API in PHP, Python,\u00a0<\/font><font color=\"#777777\">... <\/font><font color=\"#000000\">The Initial Check returns an indicative text &quot;snippet&quot; containing a short selection of <\/font><font color=\"#777777\">... <\/font><font color=\"#000000\">The length of this snippet, given in the minwordsmatched field of the\u00a0<\/font><font color=\"#777777\">... <\/font><font color=\"#000000\">the Copyscape API can also perform an additional, <\/font><font color=\"#777777\">... <\/font><font color=\"#000000\">more thorough check called a Full Comparison.<\/font><font color=\"#777777\">... <\/font><font color=\"#000000\">in the Initial Check, and compares it against the text that was submitted.<\/font><font color=\"#777777\">... <\/font><font color=\"#000000\">result in the web interface. To perform Full Comparisons through the API,\u00a0<\/font><font color=\"#777777\">... <\/font><font color=\"#000000\">This controls the maximum number of Full Comparisons to perform, prioritizing the results with the longest snippet lengths from the Initial Check.<\/font><font color=\"#777777\">... <\/font><font color=\"#000000\">If a Full Comparison is successfully performed for a page,\u00a0<\/font>",
+                "minwordsmatched": "226",
+                "viewurl": "http:\/\/view2.copyscape.com\/compare\/rwjidve8g0\/1"
+            },
+            {
+                "index": 2,
+                "url": "https:\/\/www.googlealert.com\/api-guide.php",
+                "title": "Copyscape Premium - API Guide - Google Alert",
+                "textsnippet": "... Copyscape Premium - API Guide Copyscape Premium API The Copyscape Premium API allows you to seamlessly integrate Copyscape Premium into your internal systems. This lets you automatically check the originality of new content as it enters your workflow, or perform large-scale checks for plagiarism of offline content.",
+                "htmlsnippet": "<font color=\"#777777\">... Copyscape Premium - API Guide Copyscape Premium API <\/font><font color=\"#000000\">The Copyscape Premium API allows you to seamlessly integrate Copyscape Premium into your internal systems. This lets you automatically check the originality of new content as it enters your workflow, or perform large-scale checks for plagiarism of offline content.<\/font>",
+                "minwordsmatched": "40",
+                "viewurl": "http:\/\/view2.copyscape.com\/compare\/rwjidve8g0\/2"
+            },
+            {
+                "index": 3,
+                "url": "https:\/\/crackpropc.com\/category\/internet\/",
+                "title": "Internet Archives - Crack Pro PC",
+                "textsnippet": "... you use your API credentials to seamlessly integrate Copyscape Premium Serial Key  into your WordPress workflow. If you have created a private index,\u00a0",
+                "htmlsnippet": "<font color=\"#777777\">... you <\/font><font color=\"#000000\">use your API credentials to seamlessly integrate Copyscape Premium <\/font><font color=\"#777777\">Serial Key  <\/font><font color=\"#000000\">into your WordPress workflow. If you have created a private index,\u00a0<\/font>",
+                "minwordsmatched": "20",
+                "viewurl": "http:\/\/view2.copyscape.com\/compare\/rwjidve8g0\/3"
+            }
+        ]
+    },
+    "message": [
+        "Generate title list has been featched successfully."
+    ],
+    "traceCode": ""
+}
